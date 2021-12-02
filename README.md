@@ -40,7 +40,7 @@ Kiyomi's Favorite Foods:
 5. Mac n Cheese
 6. Curry Chickpeas
 
-```<style type='text/css'>
+<style type='text/css'>
 s { text-decoration:none; } 
 em { font-style: normal; font-weight: bold; }
 s { color: pink }
