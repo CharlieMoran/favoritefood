@@ -8,23 +8,23 @@
 
 <img src="./images/el-gran-lomo.jpeg" alt="lomo" width="200" height="200" />
 
-<span style="color:pink">2. Ñinos Envueltos</span>
+<s>2. Ñinos Envueltos</s>
 
 <img src="./images/ninos-envueltos.jpeg" alt="lomo" width="200" height="200" />
 
-<span style="color:pink">3. Tonkotsu Ramen</span>
+<s>3. Tonkotsu Ramen</s>
 
 <img src="./images/tonkotsu-ramen.jpeg" alt="lomo" width="200" height="200" />
 
-<span style="color:pink">4. Beef Kofta with Kabuli Rice</span>
+<s>4. Beef Kofta with Kabuli Rice</s>
 
 <img src="./images/beef-kofta.jpeg" alt="lomo" width="200"height="200" />
 
-<span style="color:pink">5. Taco Bell's Secret Menu Item Enchirito</span>
+<s>5. Taco Bell's Secret Menu Item Enchirito</s>
 
 <img src="./images/enchirito.jpeg" alt="lomo" width="200" height="200" />
 
-<span style="color:pink">6. Anything with banana</span>
+<s>6. Anything with banana</s>
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
