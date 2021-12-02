@@ -1,5 +1,6 @@
 # favoritefood
-<h1>list of favorite foods</h1>
+<br />
+<h2>List of Favorite Foods</h2>
 
 <em>Charlie's Favorite Foods:</em>
 <br />
