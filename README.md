@@ -29,24 +29,6 @@
 6. Anything with banana
 
 <<<<<<< HEAD
-Kiyomi's Favorite Foods: 
-1. Plantain 
-                         <img src="images/download.jpeg" width="200" height="200" />
-                        
-2. Pineapple 
-                         <img src= "images/images.jpeg" width="200" height="200" />
-3. Avocado 
-                         <img src= "images/download (1).jpeg" width="200" height="200"/>
-4. Fried Oyester Mushrooms 
-                         <img src= "images/Fried-Oyster-Mushrooms-5.jpeg" width="200" height="200"/>
-5. Mac n Cheese 
-                         <img src= "images/kwr-mac-and-cheese-articleLarge-v2.jpeg" width="200" height="200"/>
-6. Curry Chickpeas 
-                         <img src= "images/vegan-chickpea-curry-recipe.jpeg" width="200" height="200"/>
-=======
-<img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
-
->>>>>>> 55c0cd1c431d8ece978128ba7926d0f7df59617d
 
 Kiyomi's Favorite Foods: 
 <br />
