@@ -15,4 +15,11 @@ Charlie's Favorite Foods:
 ![banana](./images/bananaman.png)
 6. Anything with banana
 
-Kiyomi's Favorite Foods:
+Kiyomi's Favorite Foods: 1. Plantain 
+                         2. Pineapple
+                         3. Avocado
+                         4. Fried Oyester Mushrooms
+                         5. Mac n Cheese
+                         6. Curry Chickpeas
+
+
