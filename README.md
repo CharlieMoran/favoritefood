@@ -2,30 +2,30 @@
 <br />
 <h2>List of Favorite Foods</h2>
 
-<em>Charlie's Favorite Foods:</em>
+<h3>Charlie's Favorite Foods:</h3>
 <br />
 
-<s>1. El Gran Lomo Sandwich</s>
+1. El Gran Lomo Sandwich
 
 <img src="./images/el-gran-lomo.jpeg" alt="lomo" width="200" height="200" />
 
-<s>2. Ñinos Envueltos</s>
+2. Ñinos Envueltos
 
 <img src="./images/ninos-envueltos.jpeg" alt="lomo" width="200" height="200" />
 
-<s>3. Tonkotsu Ramen</s>
+3. Tonkotsu Ramen
 
 <img src="./images/tonkotsu-ramen.jpeg" alt="lomo" width="200" height="200" />
 
-<s>4. Beef Kofta with Kabuli Rice</s>
+4. Beef Kofta with Kabuli Rice
 
 <img src="./images/beef-kofta.jpeg" alt="lomo" width="200"height="200" />
 
-<s>5. Taco Bell's Secret Menu Item Enchirito</s>
+5. Taco Bell's Secret Menu Item Enchirito
 
 <img src="./images/enchirito.jpeg" alt="lomo" width="200" height="200" />
 
-<s>6. Anything with banana</s>
+6. Anything with banana
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
@@ -39,10 +39,3 @@ Kiyomi's Favorite Foods:
 4. Fried Oyester Mushrooms
 5. Mac n Cheese
 6. Curry Chickpeas
-
-<style type='text/css'>
-s { text-decoration:none; } 
-em { font-style: normal; font-weight: bold; }
-s { color: pink }
-em { color: red }
-</style>
