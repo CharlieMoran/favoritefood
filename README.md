@@ -1,7 +1,7 @@
 # favoritefood
 list of favorite foods
 
-Charlie's Favorite Foods:
+<span style="color:pink">Charlie's Favorite Foods:
 <br />
 
 1. El Gran Lomo Sandwich
@@ -27,7 +27,7 @@ Charlie's Favorite Foods:
 6. Anything with banana
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
-
+<span>
 
 
 Kiyomi's Favorite Foods: 
