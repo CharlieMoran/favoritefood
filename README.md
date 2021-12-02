@@ -27,7 +27,7 @@ list of favorite foods
 6. Anything with banana
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
-<span>
+</span>
 
 
 Kiyomi's Favorite Foods: 
