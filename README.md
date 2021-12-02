@@ -31,7 +31,7 @@
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
 
-Kiyomi's Favorite Foods: 
+<h3>Kiyomi's Favorite Foods:</h3>
 <br />
 1. Plantain 
                         <br /> <img src="images/download.jpeg" width="200" height="200" />
