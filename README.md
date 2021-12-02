@@ -1,33 +1,33 @@
 # favoritefood
 list of favorite foods
 
-<span style="color:pink">Charlie's Favorite Foods:
+<span style="color:pink">Charlie's Favorite Foods:</span>
 <br />
 
-1. El Gran Lomo Sandwich
+<span style="color:pink">1. El Gran Lomo Sandwich</span>
 
 <img src="./images/el-gran-lomo.jpeg" alt="lomo" width="200" height="200" />
 
-2. Ñinos Envueltos
+<span style="color:pink">2. Ñinos Envueltos</span>
 
 <img src="./images/ninos-envueltos.jpeg" alt="lomo" width="200" height="200" />
 
-3. Tonkotsu Ramen
+<span style="color:pink">3. Tonkotsu Ramen</span>
 
 <img src="./images/tonkotsu-ramen.jpeg" alt="lomo" width="200" height="200" />
 
-4. Beef Kofta with Kabuli Rice
+<span style="color:pink">4. Beef Kofta with Kabuli Rice</span>
 
 <img src="./images/beef-kofta.jpeg" alt="lomo" width="200"height="200" />
 
-5. Taco Bell's Secret Menu Item Enchirito
+<span style="color:pink">5. Taco Bell's Secret Menu Item Enchirito</span>
 
 <img src="./images/enchirito.jpeg" alt="lomo" width="200" height="200" />
 
-6. Anything with banana
+<span style="color:pink">6. Anything with banana</span>
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
-</span>
+
 
 
 Kiyomi's Favorite Foods: 
