@@ -28,6 +28,8 @@
 
 6. Anything with banana
 
+<img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
+
 
 Kiyomi's Favorite Foods: 
 <br />
@@ -45,4 +47,4 @@ Kiyomi's Favorite Foods:
 6. Curry Chickpeas 
                         <br /> <img src= "images/vegan-chickpea-curry-recipe.jpeg" width="200" height="200"/>
 
-<img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
+
