@@ -41,3 +41,9 @@ Kiyomi's Favorite Foods:
 6. Curry Chickpeas
 
 
+// resets
+s { text-decoration:none; } //strike-through
+
+
+// colors
+s { color: pink }
