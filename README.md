@@ -1,10 +1,10 @@
 # favoritefood
-list of favorite foods
+<h1>list of favorite foods</h1>
 
-<span style="color:pink">Charlie's Favorite Foods:</span>
+<em>Charlie's Favorite Foods:</em>
 <br />
 
-<span style="color:pink">1. El Gran Lomo Sandwich</span>
+<s>1. El Gran Lomo Sandwich</s>
 
 <img src="./images/el-gran-lomo.jpeg" alt="lomo" width="200" height="200" />
 
@@ -29,7 +29,6 @@ list of favorite foods
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
 
-
 Kiyomi's Favorite Foods: 
 <br />
 
@@ -40,10 +39,10 @@ Kiyomi's Favorite Foods:
 5. Mac n Cheese
 6. Curry Chickpeas
 
-
-// resets
-s { text-decoration:none; } //strike-through
-
-
-// colors
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+s { text-decoration:none; } 
+em { font-style: normal; font-weight: bold; }
 s { color: pink }
+em { color: red }
+</style>")
