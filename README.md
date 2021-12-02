@@ -30,6 +30,10 @@
 
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
+<br />
+<br />
+<br />
+====================================================================
 
 <h3>Kiyomi's Favorite Foods:</h3>
 <br />
