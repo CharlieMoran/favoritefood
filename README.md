@@ -28,9 +28,6 @@
 
 6. Anything with banana
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 <img src="./images/bananaman.png" alt="lomo" width="200" height="200" />
 
 <br />
